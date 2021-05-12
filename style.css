@@ -1,0 +1,28 @@
+table {
+border: 1px solid black;
+border-collapse: collapse;
+padding: 3px;
+width: 40%;
+text-align: left;
+font-family: 'Prompt', sans-serif
+}
+td {
+  height: 5px;
+}
+#table tr, td{
+border: 2px solid black;
+padding: 3px;
+text-align: left;
+}
+.oranžinė {
+  background: #ffa931;
+  color: white;
+}
+.mėlyna {
+  background: #04009a;
+  color: white;
+}
+.žalia {
+  background: #79d70f;
+  color: white;
+}
